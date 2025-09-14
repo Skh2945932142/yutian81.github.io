@@ -15,7 +15,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      REPO_URL: "skh2945932142.github.io"  # 远程仓库的 URL
+      REPO_URL: "Skh2945932142.github.io"  # 远程仓库的 URL
       BUILD_PATH: ".vitepress/dist"  # 构建输出路径
       CUSTOM_DOMAIN: "blog2.2945932142.xyz"  # 自定义域名
 
